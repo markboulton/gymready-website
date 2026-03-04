@@ -26,8 +26,10 @@ netlify.toml               — Netlify build & redirect config
 
 ## Design Tokens (aligned with iOS app)
 - Background: #0a0a0a
-- Surface: #1a1a1a
-- Border: #2a2a2a
+- Surface: #141414
+- Surface alt: #1a1a1a
+- Border: #222
 - Text: #f0f0f0
-- Muted: #888
-- Accent: #4ade80 (green)
+- Muted: #999
+- Accent: #4D9FFF (blue, matches app GRColorScale.accent dark mode)
+- Accent hover: #3D7FE5 (app GRColorScale.accent light mode)
