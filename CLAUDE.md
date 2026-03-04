@@ -18,7 +18,7 @@ GymReady Website is the marketing and landing page for GymReady — an iOS app f
 
 **Product positioning:** GymReady is NOT a workout tracker. It's the brain that sits on top of tracking data — mesocycle programming, fatigue management, deload intelligence, and volume analytics.
 
-**Pricing:** 14-day free trial, then £4.99/mo or £39.99/yr.
+**Pricing:** 7-day free trial, then £4.99/mo or £39.99/yr. No free tier — all features included.
 
 ## Build & Deploy
 

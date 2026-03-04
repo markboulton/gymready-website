@@ -400,6 +400,32 @@ header nav ul a:hover {
   font-weight: 600;
 }
 
+.pricing-features {
+  list-style: none;
+  max-width: 480px;
+  margin: var(--spacing-lg) auto 0;
+  text-align: left;
+}
+
+.pricing-features li {
+  padding: 0.35rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
+
+.pricing-features li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.65rem;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-accent);
+}
+
 /* ===== Final CTA ===== */
 .section-cta {
   border-top: 1px solid var(--color-border);
